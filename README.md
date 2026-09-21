@@ -6,3 +6,13 @@ This is where the basic word classes from Francais goes, for classifying everyth
 
 ## Common Lisp Transpilation
 Essential functions for Awasuno Sector Four, that is similar to standard Awasunu. But that also include transpilation to Common Lisp.
+
+## Example
+
+~~~awasunu4
+-- This is a test script in Awasunu Sector Four, a subset of Awasunu.
+obelisk1 this_is_an_awasunu_sector_four_test
+obelisk4 this_message is_split into_four sections_of_text
+
+scash
+~~~

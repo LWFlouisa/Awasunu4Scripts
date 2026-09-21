@@ -1,0 +1,9 @@
+-- Grammar Test
+je pomme mangeon
+vous banane mangeon
+
+-- obelisk
+obelisk2 je_pomme_mangeon vous banane mangeon
+
+-- scatter ashes to learn dataset
+scash

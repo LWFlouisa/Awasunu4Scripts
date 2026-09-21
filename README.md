@@ -16,3 +16,14 @@ obelisk4 this_message is_split into_four sections_of_text
 
 scash
 ~~~
+
+And for output:
+
+~~~
+is_split
+this_message
+hello_world
+sections_of_text
+this_is_an_awasunu_sector_four_test
+into_four
+~~~
